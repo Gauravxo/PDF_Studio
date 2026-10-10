@@ -62,7 +62,7 @@ Gaurav.xo PDF Studio bundles **13 powerful tools** into one clean, modern deskto
 
 | OCR | Image Reducer |
 |---|---|
-| ![about](screenshots/3.png) | ![Reducer](screenshots/reducer.png) |
+| ![about](screenshots/3.png)|
 
 ---
 
