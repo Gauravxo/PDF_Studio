@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Build output
+build/
+dist/
+*.spec
+
+# Installer output
+installer_output/
+installer_prereqs/
+*.iss
+
+# Downloads / temp
+*.crdownload
+*.zip
+*.exe
+*.7z
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Ghostscript & Tesseract (too big for GitHub — you'll add them as release assets)
+ghostscript/
+Tesseract-OCR/
