@@ -56,13 +56,13 @@ Gaurav.xo PDF Studio bundles **13 powerful tools** into one clean, modern deskto
 
 ## 📸 Screenshots
 
-> _Screenshots coming soon — but trust me, it looks great._
+| Compress PDF | Merge PDF |
+|---|---|
+| ![Compress](screenshots/1.png) | ![Merge](screenshots/2.png) |
 
-| Compress PDF | Merge PDF | OCR |
-|---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ |
-
-*(Replace `_screenshot_` with actual images uploaded to the `/screenshots/` folder of this repo.)*
+| OCR | Image Reducer |
+|---|---|
+| ![about](screenshots/3.png) | ![Reducer](screenshots/reducer.png) |
 
 ---
 
