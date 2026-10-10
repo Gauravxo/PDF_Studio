@@ -68,7 +68,7 @@ Gaurav.xo PDF Studio bundles **13 powerful tools** into one clean, modern deskto
 
 ## 📥 Download
 
-Grab the latest release from the **[Releases page](https://github.com/Gauravxo/GauravxoPDFStudio/releases)**.
+Grab the latest release from the **[Releases page](https://github.com/Gauravxo/PDF_Studio/releases/tag/v1.0.0)**.
 
 Two versions available:
 
@@ -85,7 +85,6 @@ Two versions available:
 2. Double-click → Next → Install → Finish
 3. Launch from Start Menu
 
-> **⚠️ Windows SmartScreen may warn "Unknown Publisher"** on first launch — click **More info → Run anyway**. This is normal for unsigned software.
 
 ---
 
